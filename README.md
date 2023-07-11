@@ -35,7 +35,7 @@
 - Slots are provided in the links for routing the cables from Servo motors.
 
 <p align="center">
-<img src="images/laser_cutting_friendly_robot_arm.jpg" height="50%" width="50%">
+<img src="images/360_deg_view.gif" height="50%" width="50%">
 </p>
 <p align="center">Figure 2 CNC Laser Cut Friendly 3+1 DoF Robot Arm</p>
 
