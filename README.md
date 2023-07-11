@@ -12,7 +12,7 @@
 + It takes almost three days to print all the components of a Robot Arm. The time consumed and the filament cost are found to cap the organization’s profit margin despite their high production volumes.
 
 <p align="center">
-<img src="images/existing_robot_design.JPG" height="100%" width="100%">
+<img src="images/existing_robot_design.JPG" height="50%" width="50%">
 </p>
 <p align="center">Figure 1 Existing 3D Printed 5+1 DoF Robot Arm</p>
 
@@ -30,7 +30,7 @@
 - Slots are provided in the links for routing the cables from Servo motors.
 
 <p align="center">
-<img src="images/laser_cutting_friendly_robot_arm" height="110%" width="110%">
+<img src="images/laser_cutting_friendly_robot_arm.jpg" height="50%" width="50%">
 </p>
 <p align="center">Figure 2 CNC Laser Cut Friendly 3+1 DoF Robot Arm</p>
 
