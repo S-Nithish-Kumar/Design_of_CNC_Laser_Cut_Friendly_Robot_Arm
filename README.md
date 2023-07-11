@@ -1,3 +1,8 @@
+<h2 align="center">Demonstration video</h2>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=tNjcQhkGpjM&t=00s"><img src="images/thumbnail.jpg" height="70%" width="70%"></a>
+</p>
+
 ## Contents:
 <ol>
    <li><a href="https://s-nithish-kumar.github.io/Design_of_CNC_Laser_Cut_Friendly_Robot_Arm/#1-problem-statement">Problem Statement</a></li>
