@@ -1,6 +1,6 @@
 <h2 align="center">Demonstration video</h2>
 <p align="center">
-<a href="https://www.youtube.com/watch?v=tNjcQhkGpjM&t=00s"><img src="images/Thumbnail.png" height="70%" width="70%"></a>
+<a href="https://www.youtube.com/watch?v=JYirwLvBUBI&t=00s"><img src="images/Thumbnail.png" height="70%" width="70%"></a>
 </p>
 
 ## Contents:
@@ -35,7 +35,7 @@
 - Slots are provided in the links for routing the cables from Servo motors.
 
 <p align="center">
-<img class="cropped1" src="images/360_deg_view.gif" height="90%" width="90%">
+<img class="cropped1" src="images/laser_cutting_friendly_robot_arm.jpg" height="60%" width="60%">
 </p>
 <p align="center">Figure 2 CNC Laser Cut Friendly 3+1 DoF Robot Arm</p>
 
